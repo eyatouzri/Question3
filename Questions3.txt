@@ -1,0 +1,27 @@
+Q1:Which one is NOT TRUE about k-means clustering??
+a/k-means divides the data into non-overlapping clusters without any cluster-internal structure.
+b/The objective of k-means, is to form clusters in such a way that similar samples go into a cluster, and dissimilar samples fall into different clusters.
+c/As k-means is an iterative algorithm, it guarantees that it will always converge to the global optimum.
+Q2:Customer Segmentation is a supervised way of clustering data, based on the similarity of customers to each other.
+a/true
+b/false
+Q3:How is a center point (centroid) picked for each cluster in k-means?
+a/We can randomly choose some observations out of the data set and use these observations as the initial means.
+b/We can select the centroid through correlation analysis.
+Q4:Collaborative filtering is based on relationships between products and people’s rating patterns.
+a/true
+b/false
+Q5:Which one is TRUE about Content-based recommendation systems?
+a/Content-based recommendation system tries to recommend items to the users based on their profile.
+b/In content-based approach, the recommendation process is based on similarity of users.
+c/In content-based recommender systems, similarity of users should be measured based on the similarity of the actions of users.
+Q6:Which one is correct about user-based and item-based collaborative filtering?
+a/In item-based approach, the recommendation is based on profile of a user that shows interest of the user on specific item
+b/In user-based approach, the recommendation is based on users of the same neighborhood, with whom he/she shares common preferences.
+Reponse:
+1/ c) As k-means is an iterative algorithm, it guarantees that it will always converge to the global optimum.
+2/ b) false
+3/ a) We can randomly choose some observations out of the data set and use these observations as the initial means
+4/ a) true
+5/ a) Content-based recommendation system tries to recommend items to the users based on their profile
+6/ b) In user-based approach, the recommendation is based on users of the same neighborhood, with whom he/she shares common preferences
